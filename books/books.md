@@ -1,10 +1,12 @@
 # Tech Books
 - [x] Systems Performance - Brendan Gregg
+- [ ] Database Internals
+- [ ] Build your own Database in Go
+- [ ] The Go Programming Language - Alan A. A. Donovan and Brian Kernighan
 - [ ] Coding Interview Patterns - Alex Xu
 - [ ] The Software Engineer's Guide - Gergely Orosz [A]
-- [ ] BPF Performance Tools - Brendan Gregg
 - [ ] Software Engineering at Google - Titus Winters [A]
-- [ ] The Go Programming Language - Alan A. A. Donovan and Brian Kernighan
+- [ ] BPF Performance Tools - Brendan Gregg
 - [ ] Writting an Interpreter in Go - Thorsten Ball
 
 # Fiction
@@ -25,6 +27,6 @@
 - [X] Solo Leveling 6
 - [X] Solo Leveling 7
 - [X] Solo Leveling 8
-- [ ] Solo Leveling 9
-- [ ] Solo Leveling 10
+- [X] Solo Leveling 9
+- [X] Solo Leveling 10
 - [ ] Solo Leveling 11
