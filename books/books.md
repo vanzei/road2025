@@ -29,4 +29,4 @@
 - [X] Solo Leveling 8
 - [X] Solo Leveling 9
 - [X] Solo Leveling 10
-- [ ] Solo Leveling 11
+- [X] Solo Leveling 11
