@@ -1,7 +1,7 @@
 # Currently solving the Neetcode list 250.
 
 - [x] Neetcode 150 exercises liste completed 
-- [ ] Neetcode 172 / 250 exercises ![69%](https://progress-bar.xyz/69)
+- [ ] Neetcode 173 / 250 exercises ![69%](https://progress-bar.xyz/69)
 - [ ] Hard problems to solve:
     Top 'Secretly Easy' Hard Problems:
     - [ ] #1: Reverse Nodes in k-Group - Score: 0.034[1](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
