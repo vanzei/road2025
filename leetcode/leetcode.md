@@ -1,7 +1,7 @@
 # Currently solving the Neetcode list 250.
 
 - [x] Neetcode 150 exercises liste completed 
-- [ ] Neetcode 173 / 250 exercises ![69%](https://progress-bar.xyz/69)
+- [ ] Neetcode 180 / 250 exercises ![72%](https://progress-bar.xyz/72)
 - [ ] Hard problems to solve:
     Top 'Secretly Easy' Hard Problems:
     - [ ] #1: Reverse Nodes in k-Group - Score: 0.034[1](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
@@ -11,8 +11,9 @@
     - [ ] #5: Robot Room Cleaner - Score: 0.0192[5](https://leetcode.ca/all/489.html)
     - [ ] 
     - [ ] Top 'Most Efficient for Interview Prep' Hard Problems:
-    - [ ] #1: Longest Increasing Path in a Matrix - Score: 1.8094[6](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
-    - [ ] #2: Trapping Rain Water - Score: 1.6964
+    - [X] #1: Longest Increasing Path in a Matrix - Score: 1.8094[6](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
+      - DFS combined with caching the longest of the neighbors
+    - [X] #2: Trapping Rain Water - Score: 1.6964
     - [ ] #3: The Skyline Problem - Score: 1.5794[7](https://leetcode.com/problems/the-skyline-problem/description/)
     - [ ] #4: Word Break II - Score: 1.5601[8](https://leetcode.com/problems/word-break-ii/description/)
     - [ ] #5: Smallest Range Covering Elements from K Lists - Score: 1.1687[9](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)

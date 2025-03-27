@@ -1,7 +1,7 @@
 ## Distributed Systems and Databases
 
 - [X] The Google File System
-- [ ] Dynamo: Amazon's highly availavle key-value store
+- [X] Dynamo: Amazon's highly availavle key-value store
 - [ ] BigTable: Google's distributed storage system for structured data
 - [ ] Cassandra: A scalable NoSQL database with tunable consistency
 - [ ] Spanner: Google's globally distributed and strongly consistent database
